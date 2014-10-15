@@ -1,7 +1,5 @@
 Este Documento representa la linea base del Proyecto.
-<<<<<<< HEAD
 Agrego esta linea para hacer conflicto XD
 Una modificación de Alejandro, para probar múltiples commits en mismo archivo.
-=======
 esto lo escribi yo (jose)
->>>>>>> b36bf5db57c55ec25209cd5a4cfe50a6b5735e61
+
